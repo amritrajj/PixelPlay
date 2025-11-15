@@ -6,7 +6,7 @@ name: Build Debug APK
 
 # Controls when the action will run
 on:
-  # 1. Run automatically on any push to the 'main' branch
+  # 1. Run automatically on any push to the 'ntg' branch
   push:
     branches: [ "ntg" ]
     
